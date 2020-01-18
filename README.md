@@ -1,7 +1,6 @@
-# 16.4-tecFORTH
+# tec-FORTH
 
-Document process to load and boot on TEC1
-control via serial port to terminal
-Test all functions. 
-Test scientific Forth library.
+Using John Hardy's "Firth of Forth", test on TEC-1
+Test tecAPUS.
+Test Forth Scientific library.
 
