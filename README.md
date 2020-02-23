@@ -30,9 +30,9 @@ Need tec-APUS
 
 # Method 
 
-Install tec-APUS first for the UART
-Use ROM Emulator by Ben Grimmett https://github.com/SteveJustin1963/tec-ROM-EM-BG
-Load and boot Firth of Forth https://github.com/jhlagado/firth
+* Install tec-APUS first for the UART
+* Use ROM Emulator by Ben Grimmett https://github.com/SteveJustin1963/tec-ROM-EM-BG
+* Load and boot Firth of Forth https://github.com/jhlagado/firth
 
 "Firth is designed to run using a Motorola 6850 ACIA serial chip mapped to ports $80 and $81 (or 0x80 and 0x81) as per the hardware arrangement designed by Grant Searle." 
  
