@@ -34,9 +34,9 @@ Bens Serial IO addon https://github.com/SteveJustin1963/tec-SERIAL-BG not avail,
 * Need UART
 "Firth is designed to run using a Motorola 6850 ACIA serial chip mapped to ports $80 and $81 (or 0x80 and 0x81) as per the hardware arrangement designed by Grant Searle." (Hardy 2020)
 
-Use https://github.com/SteveJustin1963/tec-APUS , test software experimental, F0F should at least drive the UART part.
+Use https://github.com/SteveJustin1963/tec-APUS , driver is experimental, but F0F can dive UART part.
 
-* Load Forth into TEC-1
+* Load F0F into TEC-1
 
 https://github.com/jhlagado/firth
 
