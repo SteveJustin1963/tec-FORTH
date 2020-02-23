@@ -23,13 +23,12 @@ This project is to  test, confirm and use this powerful system.
 
 # Prediction
 * "This is where the project gets interesting but nothing is ever smooth sailing, it's always hard" (John Hardy 2020)
-* Need UART, eg tec-APUS
 * Not enough RAM
 
 # Method 
 
-* Install UART, https://github.com/SteveJustin1963/tec-APUS
-* Install ROM Emulator, https://github.com/SteveJustin1963/tec-ROM-EM-BG
+* Install UART, https://github.com/SteveJustin1963/tec-SERIAL-BG (cant get one), make own https://github.com/SteveJustin1963/tec-APUS
+* Install ROM Emulator, https://github.com/SteveJustin1963/tec-ROM-EM-BG, for easy code loading. (https://github.com/SteveJustin1963/tec-BOOT not ready)
 * Load Forth, https://github.com/jhlagado/firth
 
 "Firth is designed to run using a Motorola 6850 ACIA serial chip mapped to ports $80 and $81 (or 0x80 and 0x81) as per the hardware arrangement designed by Grant Searle." 
