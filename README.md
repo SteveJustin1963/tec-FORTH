@@ -75,12 +75,13 @@ https://en.wikipedia.org/wiki/Firth
 
 # Iterate, new hypotheses or predictions
 
-Squeezing into ROM could lead to a mini Monitor (Hardy 2020)
-
-Not enough RAM. TEC-1D upgrade for more ram and rom
+1. Update manual with all findings, make it comprehensive! 
+Use https://code2flow.com/ to also explain code in flow-chart.
+2. Squeezing into ROM could lead to a mini Monitor (Hardy 2020)
+3. ROM version of Forth, 2k not enough. Redesign, eg, Redesign with 8k ROM +56K RAM per Grant Searle.
 https://github.com/SteveJustin1963/TEC-1D
 
-Apply https://code2flow.com/ to code and add to manual
+
 
 
 
