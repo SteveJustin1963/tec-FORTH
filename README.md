@@ -5,8 +5,7 @@ Forth, TEC-1, Z80,
 
 # Introduction 
 
-Our honorary genius, John Hardy has developed "Firth of Forth" (2019) for the TEC-1.
-This project is to test, confirm and use this powerful system.
+Our honorary genius, John Hardy has developed "Firth of Forth" (2019) for the TEC-1. This project is to test and confirm this powerful system. Trust me!
 
 # Observe and Question 
 * Is "Firth of Forth" a viable and robust Forth?
@@ -20,7 +19,6 @@ This project is to test, confirm and use this powerful system.
 
 # Prediction
 * "This is where the project gets interesting but nothing is ever smooth sailing, it's always hard" (Hardy 2020)
-* Trust me!
 
 # Method 
 
