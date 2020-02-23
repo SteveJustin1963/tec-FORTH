@@ -30,14 +30,18 @@ Code for BitBang (Robertson 2019) not released yet, "tec-BANG" not ready (Justin
 Bens Serial IO addon https://github.com/SteveJustin1963/tec-SERIAL-BG not avail, he is developing it into Video card, TBA (Gremmett 2019)
 
 * Need UART
-
-Make own addon, https://github.com/SteveJustin1963/tec-APUS
-
-* Install ROM Emulator, https://github.com/SteveJustin1963/tec-ROM-EM-BG, for easy code loading. (https://github.com/SteveJustin1963/tec-BOOT not ready)
-* Load Forth, https://github.com/jhlagado/firth
-
 "Firth is designed to run using a Motorola 6850 ACIA serial chip mapped to ports $80 and $81 (or 0x80 and 0x81) as per the hardware arrangement designed by Grant Searle." (Hardy 2020)
- 
+
+Use https://github.com/SteveJustin1963/tec-APUS
+
+* Load code
+
+Install ROM Emulator, https://github.com/SteveJustin1963/tec-ROM-EM-BG, for easy code loading. (https://github.com/SteveJustin1963/tec-BOOT not ready)
+
+* Load Forth
+
+https://github.com/jhlagado/firth
+
 
 # Test
 * JH internal tests
