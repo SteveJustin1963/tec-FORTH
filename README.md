@@ -24,7 +24,7 @@ Our honorary genius, John Hardy has developed "Firth of Forth" (2019) for the TE
 # Method 
 
 ## Load Forth into TEC-1
-1. BitBang and file hex transfer in Zip archive, n.a. (Robertson 2019).
+1. BitBang and hex file transfer in Zip archive, n.a. (Robertson 2019).
 2. Code for "tec-BANG" n.a. (Justin 2020).
 3. Serial IO addon https://github.com/SteveJustin1963/tec-SERIAL-BG n.a. (Gremmett 2019).
 3. Serial on Video card, https://github.com/SteveJustin1963/tec-VIDEO-BG n.a. (Gremmett 2019).
