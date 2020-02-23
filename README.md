@@ -5,11 +5,8 @@ Forth, TEC-1, Z80,
 
 # Introduction 
 
-Based on the brilliant work by John Hardy we now have "Firth of Forth" (started 2019) for the TEC-1 targeting the Z80 CPU.
-
-https://en.wikipedia.org/wiki/Firth
-
-This project is to  test, confirm and use this powerful system.
+Our genius, John Hardy has developed "Firth of Forth" (started 2019), for the TEC-1.
+This project is to test, confirm and use this powerful system.
 
 # Observe and Question 
 * Is "Firth of Forth" a viable and robust Forth?
@@ -70,7 +67,7 @@ Justin, Steve "tec-BANG", https://github.com/SteveJustin1963/tec-BANG
 
 Gremmett, Benn 2019, https://docs.google.com/spreadsheets/d/196W4LSZB3WT3BBj0CI_23vvdlKwxeybq7q1GpcKLlhA/edit#gid=1031750592&range=A4
 
-
+https://en.wikipedia.org/wiki/Firth
 
 # Iterate, new hypotheses or predictions
 
