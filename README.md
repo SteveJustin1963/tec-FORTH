@@ -63,7 +63,7 @@ Need tec-APUS
 TEC-1D Upgrade
 https://github.com/SteveJustin1963/TEC-1D
 
-
+Apply https://code2flow.com/ to code and add to manual
 
 
 
