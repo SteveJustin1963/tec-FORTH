@@ -22,7 +22,7 @@ This project is to  test, confirm and use this powerful system.
 
 
 # Prediction
-* "This is where the project gets interesting but nothing is ever smooth sailing, it's always hard" (John Hardy 2020)
+* "This is where the project gets interesting but nothing is ever smooth sailing, it's always hard" (Hardy 2020)
 * Not enough RAM
 
 # Method 
@@ -31,7 +31,7 @@ This project is to  test, confirm and use this powerful system.
 * Install ROM Emulator, https://github.com/SteveJustin1963/tec-ROM-EM-BG, for easy code loading. (https://github.com/SteveJustin1963/tec-BOOT not ready)
 * Load Forth, https://github.com/jhlagado/firth
 
-"Firth is designed to run using a Motorola 6850 ACIA serial chip mapped to ports $80 and $81 (or 0x80 and 0x81) as per the hardware arrangement designed by Grant Searle." 
+"Firth is designed to run using a Motorola 6850 ACIA serial chip mapped to ports $80 and $81 (or 0x80 and 0x81) as per the hardware arrangement designed by Grant Searle." (Hardy 2020)
  
 
 # Test
@@ -53,7 +53,7 @@ This project is to  test, confirm and use this powerful system.
 # Acknowledgements
 
 # References
-
+ Hardy, John 2020, https://docs.google.com/spreadsheets/d/196W4LSZB3WT3BBj0CI_23vvdlKwxeybq7q1GpcKLlhA/edit#gid=0&range=A21
 
 # Iterate, new hypotheses or predictions
 
