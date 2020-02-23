@@ -28,11 +28,13 @@ This project is to  test, confirm and use this powerful system.
 # Method 
 
 * Need Serial IO
+
 No code released for BitBang (Robertson 2019) and "tec-BANG" not ready (Justin 2020).
 Bens Serial IO addon https://github.com/SteveJustin1963/tec-SERIAL-BG not avail, he is developing it into Video card, TBA (Gremmett 2019)
 
 * Need UART
-Make own, https://github.com/SteveJustin1963/tec-APUS, add APU
+
+Make own addon, https://github.com/SteveJustin1963/tec-APUS
 
 * Install ROM Emulator, https://github.com/SteveJustin1963/tec-ROM-EM-BG, for easy code loading. (https://github.com/SteveJustin1963/tec-BOOT not ready)
 * Load Forth, https://github.com/jhlagado/firth
