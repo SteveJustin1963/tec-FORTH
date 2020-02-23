@@ -19,31 +19,27 @@ Our honorary genius, John Hardy has developed "Firth of Forth" [FoF] (2019) for 
 
 
 # Prediction
-* "This is where the project gets interesting but nothing is ever smooth sailing, it's always hard" (Hardy 2020)
+"This is where the project gets interesting but nothing is ever smooth sailing, it's always hard" (Hardy 2020)
 
 # Method 
 
-* Need UART
-"Firth is designed to run using a Motorola 6850 ACIA serial chip mapped to ports $80 and $81 (or 0x80 and 0x81) as per the hardware arrangement designed by Grant Searle." (Hardy 2020)
-
-Use https://github.com/SteveJustin1963/tec-APUS , driver is experimental, but FoF can dive UART part.
-
-* Load FoF into TEC-1
+## Load FoF into TEC-1
 1. Code for BitBang (Robertson 2019) in Zip archive, not released yet. 
 2. Code "tec-BANG" not ready (Justin 2020).
 3. Bens Serial IO addon https://github.com/SteveJustin1963/tec-SERIAL-BG not avail, he is developing it into Video card, TBA (Gremmett 2019)
 4. https://github.com/SteveJustin1963/tec-BOOT not ready
 5. Use ROM Emulator, https://github.com/SteveJustin1963/tec-ROM-EM-BG, for easy code loading. Transfer https://github.com/jhlagado/firth
 to TEC-1.
-6. Boot !
+6. "Firth is designed to run using a Motorola 6850 ACIA serial chip mapped to ports $80 and $81 (or 0x80 and 0x81) as per the hardware arrangement designed by Grant Searle." (Hardy 2020). Use https://github.com/SteveJustin1963/tec-APUS
+7. Boot !
 
 # Test
-* JH internal tests
-* Standard benchmark tests  
-* Figforth, gforth, Peter Forth, etc
-* Function test
-* AM9511
-* Forth Scientific Library
+1. JH internal tests
+2. Standard benchmark tests  
+3. Figforth, gforth, Peter Forth, etc
+4. Function test
+5. AM9511
+6. Forth Scientific Library
 
 # Report, figures, tables
 
