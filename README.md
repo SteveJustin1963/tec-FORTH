@@ -63,8 +63,6 @@ https://www.facebook.com/otherunicorn
 
 https://en.wikipedia.org/wiki/Charles_H._Moore
 
-https://en.wikipedia.org/wiki/Forth_(programming_language)
-
 # References
 
 Hardy, John 2020, https://docs.google.com/spreadsheets/d/196W4LSZB3WT3BBj0CI_23vvdlKwxeybq7q1GpcKLlhA/edit#gid=0&range=A21
@@ -74,6 +72,8 @@ Robertson, Jim (2019) https://docs.google.com/spreadsheets/d/196W4LSZB3WT3BBj0CI
 Justin, Steve "tec-BANG", https://github.com/SteveJustin1963/tec-BANG
 
 Gremmett, Benn 2019, https://docs.google.com/spreadsheets/d/196W4LSZB3WT3BBj0CI_23vvdlKwxeybq7q1GpcKLlhA/edit#gid=1031750592&range=A4
+
+https://en.wikipedia.org/wiki/Forth_(programming_language)
 
 https://en.wikipedia.org/wiki/Firth
 
