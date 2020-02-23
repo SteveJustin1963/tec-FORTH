@@ -12,21 +12,19 @@ https://en.wikipedia.org/wiki/Firth
 This project is to  test, confirm and use this powerful system.
 
 # Observe and Question 
-Test Firth; viable and robust?
- 
-Review the technical manual and expand until comprehensively complete.
+* Is "Firth of Forth" a viable and robust Forth?
+* Review the technical manual and expand until comprehensively complete.
 
  
 # Theory - testable
-Testing and reporting any bugs back through git. 
+* Test and report any bugs back through git. 
 
 
 
 # Prediction
-Need UART, eg tec-APUS
-Trust John! 
-
-Not enough RAM
+* Trust John! "This is where the project gets interesting but nothing is ever smooth sailing, it's always hard"
+* Need UART, eg tec-APUS
+* Not enough RAM
 
 # Method 
 
