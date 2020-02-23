@@ -22,7 +22,7 @@ This project is to  test, confirm and use this powerful system.
 
 
 # Prediction
-* Trust John! "This is where the project gets interesting but nothing is ever smooth sailing, it's always hard"
+* "This is where the project gets interesting but nothing is ever smooth sailing, it's always hard" (John Hardy 2020)
 * Need UART, eg tec-APUS
 * Not enough RAM
 
@@ -54,7 +54,6 @@ This project is to  test, confirm and use this powerful system.
 # Acknowledgements
 
 # References
-
 
 
 # Iterate, new hypotheses or predictions
