@@ -5,7 +5,7 @@ Forth, TEC-1, Z80,
 
 # Introduction 
 
-Based on the brilliant work by John Hardy we now have "Firth of Forth" (started 2019)for the TEC-1 targeting the Z80 CPU.
+Based on the brilliant work by John Hardy we now have "Firth of Forth" (started 2019) for the TEC-1 targeting the Z80 CPU.
 
 https://en.wikipedia.org/wiki/Firth
 
