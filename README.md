@@ -76,9 +76,8 @@ https://en.wikipedia.org/wiki/Firth
 
 1. Update manual with all findings, make it comprehensive! 
 Use https://code2flow.com/ to also explain code in flow-chart.
-2. Squeezing into ROM could lead to a mini Monitor (Hardy 2020)
-3. ROM version of Forth, 2k not enough. Redesign, eg, Redesign with 8k ROM +56K RAM per Grant Searle.
-https://github.com/SteveJustin1963/TEC-1D
+2. Squeeze Forth with mini Monitor into 4k ROM, active additional address line. (Hardy 2020)
+3. Redesign TEC-1D per Grant Searle, 8k ROM + 56K RAM. https://github.com/SteveJustin1963/TEC-1D
 
 
 
