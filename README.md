@@ -27,6 +27,7 @@ Our honorary genius, John Hardy has developed "Firth of Forth" (2019) for the TE
 * Need Serial IO
 
 Code for BitBang (Robertson 2019) not released yet, "tec-BANG" not ready (Justin 2020).
+
 Bens Serial IO addon https://github.com/SteveJustin1963/tec-SERIAL-BG not avail, he is developing it into Video card, TBA (Gremmett 2019)
 
 * Need UART
