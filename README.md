@@ -27,10 +27,12 @@ This project is to  test, confirm and use this powerful system.
 
 # Method 
 
-* Install UART
+* Need Serial IO
+No code released for BitBang (Robertson 2019)
+tec-BANG not ready (Justin 2020)
+Bens Serial IO addon https://github.com/SteveJustin1963/tec-SERIAL-BG not avail, he is developing it into Video card, TBA (Gremmett 2019)
 
-Cant get one, https://github.com/SteveJustin1963/tec-SERIAL-BG
-
+* Need UART
 Make own, https://github.com/SteveJustin1963/tec-APUS, add APU
 
 * Install ROM Emulator, https://github.com/SteveJustin1963/tec-ROM-EM-BG, for easy code loading. (https://github.com/SteveJustin1963/tec-BOOT not ready)
@@ -58,7 +60,16 @@ Make own, https://github.com/SteveJustin1963/tec-APUS, add APU
 # Acknowledgements
 
 # References
- Hardy, John 2020, https://docs.google.com/spreadsheets/d/196W4LSZB3WT3BBj0CI_23vvdlKwxeybq7q1GpcKLlhA/edit#gid=0&range=A21
+
+Hardy, John 2020, https://docs.google.com/spreadsheets/d/196W4LSZB3WT3BBj0CI_23vvdlKwxeybq7q1GpcKLlhA/edit#gid=0&range=A21
+
+Robertson, Jim (2019) https://docs.google.com/spreadsheets/d/196W4LSZB3WT3BBj0CI_23vvdlKwxeybq7q1GpcKLlhA/edit#gid=756830046&range=A2 
+
+Justin, Steve "tec-BANG", https://github.com/SteveJustin1963/tec-BANG
+
+Gremmett, Benn 2019, https://docs.google.com/spreadsheets/d/196W4LSZB3WT3BBj0CI_23vvdlKwxeybq7q1GpcKLlhA/edit#gid=1031750592&range=A4
+
+
 
 # Iterate, new hypotheses or predictions
 
