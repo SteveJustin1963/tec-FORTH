@@ -3,14 +3,6 @@
 Using John Hardy's "Firth of Forth", test on TEC-1
 
 
-
-## TEC-1D Upgrade
-https://github.com/SteveJustin1963/TEC-1D
-
-
-Welcome to the 16.4-tecFORTH wiki!
-
-
 # Abstract
 Forth, TEC-1, Z80, 
 
@@ -33,22 +25,23 @@ Testing and reporting any bugs back through git.
 
 # Prediction
 Trust John! 
+
+Not enough RAM
+
 # Method 
-## ROM Emulator
-Use ROM Emulator by Ben Grimmett
-https://github.com/SteveJustin1963/tec-ROM-EM-BG
 
-Load and boot Firth of Forth 
+Use ROM Emulator by Ben Grimmett https://github.com/SteveJustin1963/tec-ROM-EM-BG
 
-## Code
-https://github.com/jhlagado/firth
+Load and boot Firth of Forth https://github.com/jhlagado/firth
 
 "Firth is designed to run using a Motorola 6850 ACIA serial chip mapped to ports $80 and $81 (or 0x80 and 0x81) as per the hardware arrangement designed by Grant Searle." 
  
 
 
 # Test
-Firth runs terminal session thru UART on tec-APUS (MC68B50P)
+* UART test
+* AM9511 test
+
 * test against circa 1980s forth of the time, eg figforth
 * Standard Forth test from domain
 * Forth base function test, including JH test
@@ -74,6 +67,8 @@ https://code2flow.com/
 
 # Iterate, new hypotheses or predictions
 
+TEC-1D Upgrade
+https://github.com/SteveJustin1963/TEC-1D
 
 
 
