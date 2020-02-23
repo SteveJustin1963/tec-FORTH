@@ -23,17 +23,19 @@ Our honorary genius, John Hardy has developed "Firth of Forth" [FoF] (2019) for 
 
 # Method 
 
-## Load FoF into TEC-1
-1. Code for BitBang (Robertson 2019) in Zip archive, not released yet. 
-2. Code "tec-BANG" not ready (Justin 2020).
-3. Bens Serial IO addon https://github.com/SteveJustin1963/tec-SERIAL-BG not avail, he is developing it into Video card, TBA (Gremmett 2019)
-4. https://github.com/SteveJustin1963/tec-BOOT not ready
-5. Use ROM Emulator, https://github.com/SteveJustin1963/tec-ROM-EM-BG, for easy code loading. Transfer https://github.com/jhlagado/firth
-to TEC-1.
-6. "Firth is designed to run using a Motorola 6850 ACIA serial chip mapped to ports $80 and $81 (or 0x80 and 0x81) as per the hardware arrangement designed by Grant Searle." (Hardy 2020). Use https://github.com/SteveJustin1963/tec-APUS
-7. Boot !
+## Load Forth into TEC-1
+1. BitBang and file hex transfer in Zip archive, n.a. (Robertson 2019).
+2. Code for "tec-BANG" n.a. (Justin 2020).
+3. Serial IO addon https://github.com/SteveJustin1963/tec-SERIAL-BG n.a. (Gremmett 2019).
+3. Serial on Video card, https://github.com/SteveJustin1963/tec-VIDEO-BG n.a. (Gremmett 2019).
+4. Tec-Boot, https://github.com/SteveJustin1963/tec-BOOT n.a. (Justin 2020).
+5. ROM Emulator, https://github.com/SteveJustin1963/tec-ROM-EM-BG, ready!
+6. Transfer https://github.com/jhlagado/firth to TEC-1. 
+7. "Firth is designed to run using a Motorola 6850 ACIA serial chip mapped to ports $80 and $81 (or 0x80 and 0x81) as per the hardware arrangement designed by Grant Searle." (Hardy 2020). 
+8. Arithmetic Processing Unit with AM9511 and Serial IO MC68B50P, https://github.com/SteveJustin1963/tec-APUS, ready!
 
 # Test
+Boot !
 1. JH internal tests
 2. Standard benchmark tests  
 3. Figforth, gforth, Peter Forth, etc
