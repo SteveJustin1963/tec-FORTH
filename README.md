@@ -7,7 +7,7 @@ Forth, TEC-1, Z80,
 
 # Introduction 
 
-Our honorary genius, John Hardy has developed "Firth of Forth" [F0F] (2019) for the TEC-1. This project is to test and confirm this powerful system. Trust me!
+Our honorary genius, John Hardy has developed "Firth of Forth" [FoF] (2019) for the TEC-1. This project is to test and confirm this powerful system. Trust me!
 
 # Observe and Question 
 * Is "Firth of Forth" a viable and robust Forth?
@@ -34,9 +34,9 @@ Bens Serial IO addon https://github.com/SteveJustin1963/tec-SERIAL-BG not avail,
 * Need UART
 "Firth is designed to run using a Motorola 6850 ACIA serial chip mapped to ports $80 and $81 (or 0x80 and 0x81) as per the hardware arrangement designed by Grant Searle." (Hardy 2020)
 
-Use https://github.com/SteveJustin1963/tec-APUS , driver is experimental, but F0F can dive UART part.
+Use https://github.com/SteveJustin1963/tec-APUS , driver is experimental, but FoF can dive UART part.
 
-* Load F0F into TEC-1
+* Load FoF into TEC-1
 
 https://github.com/jhlagado/firth
 
