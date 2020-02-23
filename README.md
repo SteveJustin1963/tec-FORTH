@@ -57,6 +57,10 @@ Make own addon, https://github.com/SteveJustin1963/tec-APUS
 
 # Acknowledgements
 
+https://www.facebook.com/jhlagado
+
+https://www.facebook.com/otherunicorn
+
 https://en.wikipedia.org/wiki/Charles_H._Moore
 
 https://en.wikipedia.org/wiki/Forth_(programming_language)
