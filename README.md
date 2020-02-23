@@ -27,7 +27,12 @@ This project is to  test, confirm and use this powerful system.
 
 # Method 
 
-* Install UART, https://github.com/SteveJustin1963/tec-SERIAL-BG (cant get one), make own https://github.com/SteveJustin1963/tec-APUS
+* Install UART
+
+Cant get one, https://github.com/SteveJustin1963/tec-SERIAL-BG
+
+Make own, https://github.com/SteveJustin1963/tec-APUS, add APU
+
 * Install ROM Emulator, https://github.com/SteveJustin1963/tec-ROM-EM-BG, for easy code loading. (https://github.com/SteveJustin1963/tec-BOOT not ready)
 * Load Forth, https://github.com/jhlagado/firth
 
