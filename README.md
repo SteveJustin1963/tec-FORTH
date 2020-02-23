@@ -36,7 +36,9 @@ Use https://github.com/SteveJustin1963/tec-APUS
 
 * Load code
 
-Install ROM Emulator, https://github.com/SteveJustin1963/tec-ROM-EM-BG, for easy code loading. (https://github.com/SteveJustin1963/tec-BOOT not ready)
+https://github.com/SteveJustin1963/tec-BOOT not ready
+
+Install ROM Emulator, https://github.com/SteveJustin1963/tec-ROM-EM-BG, for easy code loading. 
 
 * Load Forth
 
