@@ -1,14 +1,13 @@
 # tec-FORTH
 
-Using John Hardy's "Firth of Forth", test on TEC-1
-
-
 # Abstract
 Forth, TEC-1, Z80, 
 
 # Introduction 
-John Hardy is developed a new Forth, “Firth of Forth” (2019- ) for the TEC-1 targeting the Z80 CPU. This project wants to test and confirm the viable and robust Forth.
 
+Based on the brilliant work by John Hardy we now have "Firth of Forth" (started 2019)for the TEC-1 targeting the Z80 CPU.
+
+This project wants to test, confirm and use this powerful system.
 
 # Observe and Question 
 Test Firth 
