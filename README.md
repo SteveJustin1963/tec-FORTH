@@ -30,7 +30,7 @@ Need tec-APUS
 
 # Method 
 
-* Install tec-APUS first for the UART
+1. Install tec-APUS first for the UART
 * Use ROM Emulator by Ben Grimmett https://github.com/SteveJustin1963/tec-ROM-EM-BG
 * Load and boot Firth of Forth https://github.com/jhlagado/firth
 
@@ -38,17 +38,11 @@ Need tec-APUS
  
 
 # Test
-* UART test
-* AM9511 test
-
 * test against circa 1980s forth of the time, eg figforth
 * Standard Forth test from domain
 * Forth base function test, including JH test
-* Forth higher functions
-* Test Forth libraries 
+* forth for AM9511
 * test Forth Scientific Library
-* Test drivers for addons eg tec-APUS, APU
-
 
 # Report, figures, tables
 
