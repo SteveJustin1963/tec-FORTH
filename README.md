@@ -20,8 +20,7 @@ This project is to test, confirm and use this powerful system.
 
 # Prediction
 * "This is where the project gets interesting but nothing is ever smooth sailing, it's always hard" (Hardy 2020)
-* Not enough RAM
-* Squeezing into ROM could lead to a mini Monitor
+* Trust me!
 
 # Method 
 
@@ -58,6 +57,10 @@ Make own addon, https://github.com/SteveJustin1963/tec-APUS
 
 # Acknowledgements
 
+https://en.wikipedia.org/wiki/Charles_H._Moore
+
+https://en.wikipedia.org/wiki/Forth_(programming_language)
+
 # References
 
 Hardy, John 2020, https://docs.google.com/spreadsheets/d/196W4LSZB3WT3BBj0CI_23vvdlKwxeybq7q1GpcKLlhA/edit#gid=0&range=A21
@@ -72,7 +75,9 @@ https://en.wikipedia.org/wiki/Firth
 
 # Iterate, new hypotheses or predictions
 
-TEC-1D Upgrade for more ram and rom
+Squeezing into ROM could lead to a mini Monitor (Hardy 2020)
+
+Not enough RAM. TEC-1D upgrade for more ram and rom
 https://github.com/SteveJustin1963/TEC-1D
 
 Apply https://code2flow.com/ to code and add to manual
