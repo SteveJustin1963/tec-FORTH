@@ -28,8 +28,7 @@ This project is to  test, confirm and use this powerful system.
 # Method 
 
 * Need Serial IO
-No code released for BitBang (Robertson 2019)
-tec-BANG not ready (Justin 2020)
+No code released for BitBang (Robertson 2019) and "tec-BANG" not ready (Justin 2020).
 Bens Serial IO addon https://github.com/SteveJustin1963/tec-SERIAL-BG not avail, he is developing it into Video card, TBA (Gremmett 2019)
 
 * Need UART
