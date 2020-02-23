@@ -21,6 +21,7 @@ This project is to test, confirm and use this powerful system.
 # Prediction
 * "This is where the project gets interesting but nothing is ever smooth sailing, it's always hard" (Hardy 2020)
 * Not enough RAM
+* Squeezing into ROM could lead to a mini Monitor
 
 # Method 
 
