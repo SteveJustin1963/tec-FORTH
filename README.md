@@ -40,10 +40,10 @@ Our honorary genius, John Hardy has developed "Firth of Forth" (2019) for the TE
 Boot !
 1. JH internal tests
 2. Standard benchmark tests  
-3. Figforth, gforth, Peter Forth, etc
-4. Function test
-5. AM9511
-6. Forth Scientific Library
+3. Figforth, gforth, Peter Forth code, ANS
+4. basic and extended word tests
+5. AM9511 test routines
+6. https://github.com/SteveJustin1963/tec-FORTH-SCIENTIFIC
 
 ## Report, figures, tables
 
