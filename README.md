@@ -5,6 +5,11 @@ https://github.com/SteveJustin1963/tec-FORTH/wiki
 1. transfer code to tec-1
   * enough ram/rom?
   * use BG rom emulator
+2. Install serial port
+* BG Serial na
+* bitbang na
+* https://github.com/SteveJustin1963/tec-APUS in proto stage
+
 2. JH internal tests
   
 3. Standard benchmark tests  
