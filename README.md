@@ -1,5 +1,7 @@
-# tec-FORTH
+## Wiki
+https://github.com/SteveJustin1963/tec-FORTH/wiki
 
+# Task List
 1. transfer code to tec-1
   * enough ram/rom?
   * use BG rom emulator
