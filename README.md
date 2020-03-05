@@ -7,16 +7,14 @@ https://github.com/SteveJustin1963/tec-FORTH/wiki
   * use BG rom emulator
 2. Install serial port
 * BG Serial na
-* bitbang na
+* https://github.com/SteveJustin1963/tec-BANG na
 * https://github.com/SteveJustin1963/tec-APUS in proto stage
-
 2. JH internal tests
-  
-3. Standard benchmark tests  
-4. Figforth, gforth, Peter Forth code, ANS
-5. basic and extended word tests
-6. AM9511 test routines
-7. https://github.com/SteveJustin1963/tec-FORTH-SCIENTIFIC
+4. Standard benchmark tests  
+5. Figforth, gforth, Peter Forth code, ANS
+6. basic and extended word tests
+7. AM9511 test routines
+8. https://github.com/SteveJustin1963/tec-FORTH-SCIENTIFIC
 
 
 
