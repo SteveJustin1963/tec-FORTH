@@ -15,7 +15,8 @@ https://github.com/SteveJustin1963/tec-FORTH/wiki
 5. 
 6. Standard benchmark tests  
 7. Figforth tests
-x. gforth tests 
+x. gforth tests
+ * http://forth.org/OffeteStore/1010_SystemsGuideToFigForth.pdf
 x. Peter Forth tests
 x. ANS test
 8. basic and extended word tests
