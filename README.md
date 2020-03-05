@@ -11,10 +11,13 @@ https://github.com/SteveJustin1963/tec-FORTH/wiki
 * https://github.com/SteveJustin1963/tec-APUS in proto stage
 
 3. JH internal tests
-4. word test
+4. word testa listed in https://github.com/jhlagado/firth#Listing-words
 5. 
 6. Standard benchmark tests  
-7. Figforth, gforth, Peter Forth code, ANS
+7. Figforth tests
+x. gforth tests 
+x. Peter Forth tests
+x. ANS test
 8. basic and extended word tests
 9. AM9511 test routines
 10. https://github.com/SteveJustin1963/tec-FORTH-SCIENTIFIC
