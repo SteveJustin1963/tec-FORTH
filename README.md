@@ -9,13 +9,15 @@ https://github.com/SteveJustin1963/tec-FORTH/wiki
 * https://github.com/SteveJustin1963/tec-SERIAL-BG na
 * https://github.com/SteveJustin1963/tec-BANG na
 * https://github.com/SteveJustin1963/tec-APUS in proto stage
-2. JH internal tests
-4. Standard benchmark tests  
-5. Figforth, gforth, Peter Forth code, ANS
-6. basic and extended word tests
-7. AM9511 test routines
-8. https://github.com/SteveJustin1963/tec-FORTH-SCIENTIFIC
 
+3. JH internal tests
+4. word test
+5. 
+6. Standard benchmark tests  
+7. Figforth, gforth, Peter Forth code, ANS
+8. basic and extended word tests
+9. AM9511 test routines
+10. https://github.com/SteveJustin1963/tec-FORTH-SCIENTIFIC
 
 
 
