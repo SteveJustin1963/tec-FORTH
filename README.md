@@ -6,7 +6,7 @@ https://github.com/SteveJustin1963/tec-FORTH/wiki
   * enough ram/rom?
   * use BG rom emulator
 2. Install serial port
-* BG Serial na
+* https://github.com/SteveJustin1963/tec-SERIAL-BG na
 * https://github.com/SteveJustin1963/tec-BANG na
 * https://github.com/SteveJustin1963/tec-APUS in proto stage
 2. JH internal tests
