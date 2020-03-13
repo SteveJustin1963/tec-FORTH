@@ -6,7 +6,8 @@
 * You will have to add serial hardware like Ben Grimmett's excellent https://github.com/SteveJustin1963/tec-SERIAL-BG .
 * Or our experimental https://github.com/SteveJustin1963/tec-APUS which has both serial and arithmetic abilities.
 * Confirm if the AM9511 works in floating point calculations and Forth-Scientific libraries. 
-* This tape will self-destruct in five seconds. Good luck, Jim.” I.M.F.
+* Now that you've accepted the mission, proceed to https://github.com/SteveJustin1963/tec-FORTH/wiki
+* Now back up as this screen  will self-destruct in five seconds, maybe not, and good luck, Jim.” I.M.F.
 
 ![](https://github.com/SteveJustin1963/tec-FORTH/blob/master/pics/smoke-tape.png)
 
