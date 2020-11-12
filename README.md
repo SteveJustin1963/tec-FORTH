@@ -14,10 +14,7 @@ https://github.com/jhlagado/struct-z80
 “Your mission Jim, should you decide to accept it is to; 
 Investigate and test John Hardy’s brilliant https://github.com/jhlagado/firth forth code for the TEC-1 
 
-You will have to add serial hardware from either the foillowing
-* https://github.com/SteveJustin1963/tec-SERIAL-BG
-* https://github.com/SteveJustin1963/tec-APUS 
-* https://github.com/SteveJustin1963/tec-BANG
+
 
 After you've mission, file a report to https://github.com/SteveJustin1963/tec-FORTH/wiki
 
@@ -58,19 +55,22 @@ Forth will make the tec-1 easier to use, faster and more powerful.
 1. Install working serial port addon to TEC-1.
 * "Firth is designed to run using a Motorola 6850 ACIA serial chip mapped to ports $80 and $81 (or 0x80 and 0x81) as per the hardware arrangement designed by Grant Searle." (Hardy 2020). 
 * Serial HW
-  * Consider https://github.com/SteveJustin1963/tec-BANG ...NA
-  * Consider https://github.com/SteveJustin1963/tec-SERIAL-BG ...Yes March 2020
-  * Consider https://github.com/SteveJustin1963/tec-VIDEO-BG with serial ...NA
-  * Consider https://github.com/SteveJustin1963/tec-APUS ...under construction
-
+  * https://github.com/SteveJustin1963/tec-BANG ...NA
+  * https://github.com/SteveJustin1963/tec-SERIAL-BG
+  * https://github.com/SteveJustin1963/tec-VIDEO-BG
+  * https://github.com/SteveJustin1963/tec-APUS
+  
 2. Transfer Forth .bin to TEC-1 and run
 * Code setup
   * Source https://github.com/jhlagado/firth 
   * Configure RAM ROM settings in main.Z80
   * Compile and extract .bin
 * Transfer
-  * Consider https://github.com/SteveJustin1963/tec-BOOT ...NA
-  * Consider https://github.com/SteveJustin1963/tec-ROM-EM-BG ...yes...try
+  * burn a EPROM
+  * load a NVRAM in place of ROM
+  * https://github.com/SteveJustin1963/tec-BOOT 
+  * https://github.com/SteveJustin1963/tec-ROM-EM-BG 
+  * Binary upload like RS2014
 
 3. Testing
 * Confirm in asm80.com
