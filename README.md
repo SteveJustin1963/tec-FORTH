@@ -16,7 +16,6 @@ This tape will self-destruct in five seconds. Good luck, Jim.” I.M.F.
 ![](https://github.com/SteveJustin1963/tec-FORTH/blob/master/pics/smoke-tape.png)
 
 
-# tec-FORTH
 
 ![](https://github.com/SteveJustin1963/tec-FORTH/blob/master/forth3d-1.png)
 
