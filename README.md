@@ -43,9 +43,15 @@ Lets try John Hardy's “Firth of Forth” on the TEC-1. A good move because For
 ## Theory - testable
 "Forth is a simple, yet extensible language; its modularity and extensibility permit writing significant programs. A Forth environment combines the compiler with an interactive shell, where the user defines and runs subroutines called words. Words can be tested, redefined, and debugged as the source is entered without recompiling or restarting the whole program. All syntactic elements, including variables and basic operators, are defined as words. Forth environments vary in how the resulting program is stored, but ideally running the program has the same effect as manually re-entering the source." (wiki)
 
+Historically Forth has proven itself in machine control over 50 years. Firth of Forth can also.
+* To prove its a viable and robust system
+* Review and expand it technically until comprehensively complete.
+
 
 ## Prediction
 "This is where the project gets interesting but nothing is ever smooth sailing, it's always hard" (John Hardy 2020)
+
+Forth will make the tec-1 easier to use, faster and more powerful.
 
 ## Method 
 
@@ -57,7 +63,7 @@ Lets try John Hardy's “Firth of Forth” on the TEC-1. A good move because For
   * Consider https://github.com/SteveJustin1963/tec-VIDEO-BG with serial ...NA
   * Consider https://github.com/SteveJustin1963/tec-APUS ...under construction
 
-1. Transfer Forth .bin to TEC-1 and run
+2. Transfer Forth .bin to TEC-1 and run
 * Code setup
   * Source https://github.com/jhlagado/firth 
   * Configure RAM ROM settings in main.Z80
@@ -66,23 +72,18 @@ Lets try John Hardy's “Firth of Forth” on the TEC-1. A good move because For
   * Consider https://github.com/SteveJustin1963/tec-BOOT ...NA
   * Consider https://github.com/SteveJustin1963/tec-ROM-EM-BG ...yes...try
 
-2. Testing
+3. Testing
 * Confirm in asm80.com
   * https://github.com/jhlagado/firth#Listing-words
 * Terminal tests
-  * Benchmark 
-  * Figforth http://forth.org/OffeteStore/1010_SystemsGuideToFigForth.pdf
-  * gforth 
-  * Peter Forth
-  * ANS
-  * Science 
-    * AM9511 
-    * https://github.com/SteveJustin1963/tec-FORTH-SCIENTIFIC
-  * Test code from https://jupiter-ace.co.uk/index.html
-  * Test code form https://sites.google.com/site/libby8dev/fignition
+* Science test https://github.com/SteveJustin1963/tec-FORTH-SCIENTIFIC
+* AM9511 test 
+* Test code from different sites
+ * https://jupiter-ace.co.uk/index.html
+ * https://sites.google.com/site/libby8dev/fignition
 
 ##  Journal
-https://github.com/SteveJustin1963/tec-FORTH/wiki
+see wiki
 
 
 
@@ -119,9 +120,5 @@ http://pygmy.utoh.org/3ins4th.html
 Many new Forth projects can be explored more easily such as;
 * controlling a telescope and connecting to star maps
 * play with AI and resonating circuits and expand into robotics 
-
-Historically Forth has proven itself in machine control over 50 years. Firth of Forth can also !
-* To prove its a viable and robust system
-* Review and expand it technically until comprehensively complete.
 
 
