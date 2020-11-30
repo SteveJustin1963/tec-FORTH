@@ -1,12 +1,3 @@
-## Abstract
-Forth, TEC-1, Z80, 
-
-## Literature Review
-https://dev.to/jhlagado/structured-programming-in-z80-assembly-554d
-
-https://github.com/jhlagado/struct-z80
-
-## Introduction 
 
 ![](https://github.com/SteveJustin1963/tec-FORTH/blob/master/pics/imf-tec-1.png)
 ![](https://github.com/SteveJustin1963/tec-FORTH/blob/master/pics/forth3d-1.png)
