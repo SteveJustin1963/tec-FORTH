@@ -17,3 +17,11 @@ Now with the TEC1-D, “We only need to design a small amount of interfacing cir
 Prof. John Hardy has developed "Firth of Forth" (2019) for Z80 SBC such as the TEC-1. "I think people need to write more assembly language to appreciate the power of Forth. It's actually the solution to many problems but it requires exposure to those problem to understand them. Forth is the highest level solution for 8 bit. C language requires 16 bit architectures at a minimum." (John Hardy 2020). This project is to test and confirm this powerful system. 
 
 Lets try John Hardy's “Firth of Forth” on the TEC-1. A good move because Forth has “an easy syntax, is extensible, modular and permits significant programming, in an environment that combines a concatenative compiler with an interactive shell, it's a threaded interpretive language for machine coding; and without recompiling; it can run in 4k of RAM; it’s used in science, physics, astronomy, even NASA. It just needs a serial port say 6850 or at least bitbang serial and add 6k of RAM.  An optional AM9511 maths chip can be added as well. 
+
+
+
+### Forth
+- JH's Firth https://github.com/jhlagado/firth is just over 4k ROM, with some hacking maybe can get it under 4k
+- TEC-1 mod for 4k (https://github.com/SteveJustin1963/tec-4krom-12kram-mod), or use Grant Searls Z80 system.
+- JH's Zedforth https://github.com/jhlagado/zedforth is working wip, maybe 2k target, not sure
+- or MINT will fit in 1k ROM
